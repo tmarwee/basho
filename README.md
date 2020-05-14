@@ -8,7 +8,7 @@ Any feedback is welcome and appreciated!
 
 
 Thomas Wee
-(Created Maay 2020)
+(Created May 2020)
 
 
 Sources:
