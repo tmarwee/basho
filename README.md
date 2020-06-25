@@ -17,6 +17,6 @@ Thomas Wee
 
 
 Sources:
-(For Poems)
+
 https://www.poemhunter.com/i/ebooks/pdf/matsuo_basho_2004_9.pdf
 https://www.jeffcarp.com/posts/2019/markov-chain-python/
