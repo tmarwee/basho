@@ -1,5 +1,5 @@
 # basho
-Project files and notes for BASHO, aa Haiku writing algorithm:
+Project files and notes for BASHO (version 1.0), a Haiku writing algorithm:
 
 
 For my final project for my "Literature in the Age of Artificial Intelligence" class, I wrote a haiku-writing bot. I wrote a program which takes in  a corpus of over a hundred poems from the 17th-century poet Basho, the master of the haiku. This algorithm then "composes" its own unique haiku using a Markov Chain. This program was written in a few days and is only a
